@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640071125 source:d:\discovery\atmega32u4\pincanceinterupts\fuse.c
+	<avr/io.h>
+
+1640073764 source:d:\discovery\atmega32u4\pincanceinterupts\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+

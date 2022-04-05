@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640079325 source:d:\discovery\atmega32u4\timer0\fuse.c
+	<avr/io.h>
+
+1640079922 source:d:\discovery\atmega32u4\timer0\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+

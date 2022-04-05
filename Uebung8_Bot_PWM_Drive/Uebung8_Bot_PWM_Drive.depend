@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1621250375 source:d:\discovery\atmega32u programme\bot_splevel\fuse.c
+	<avr/io.h>
+
+1624868819 source:d:\discovery\atmega32u programme\bot_splevel\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1625067420 source:c:\users\standart\desktop\tempfs\bot_softst\bot_splevel\fuse.c
+	<avr/io.h>
+
+1625580420 source:d:\tempfs\bot_soft_drive\fuse.c
+	<avr/io.h>
+
+1625588965 source:d:\tempfs\bot_soft_drive\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1625587140 source:c:\users\standart\desktop\tempfs\bot_soft_drive\fuse.c
+	<avr/io.h>
+
+1625587140 source:c:\users\standart\desktop\tempfs\bot_soft_drive\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1648788240 source:d:\discovery\atmega32u4\uebung8_bot_pwm_drive\fuse.c
+	<avr/io.h>
+
+1649145267 source:d:\discovery\atmega32u4\uebung8_bot_pwm_drive\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+

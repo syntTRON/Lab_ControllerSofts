@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640076378 source:d:\discovery\atmega32u4\counter_0\fuse.c
+	<avr/io.h>
+
+1640078146 source:d:\discovery\atmega32u4\counter_0\main.c
+	<avr/io.h>
+

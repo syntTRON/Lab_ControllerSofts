@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1649139180 source:d:\discovery\atmega32u4\uebung7outputcomparemodulator\fuse.c
+	<avr/io.h>
+

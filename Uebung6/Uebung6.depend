@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646119062 source:d:\discovery\atmega32u4\uebung6\fuse.c
+	<avr/io.h>
+
+1646121003 source:d:\discovery\atmega32u4\uebung6\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+

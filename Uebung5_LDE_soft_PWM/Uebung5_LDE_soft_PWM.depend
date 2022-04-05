@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643094900 source:d:\discovery\atmega32u4\uebung5_lde_soft_pwm\fuse.c
+	<avr/io.h>
+
+1643102492 source:d:\discovery\atmega32u4\uebung5_lde_soft_pwm\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+
